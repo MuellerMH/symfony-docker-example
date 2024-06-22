@@ -72,6 +72,7 @@
                 "docblock",
                 "parser"
             ],
+
             "support": {
                 "source": "https://github.com/doctrine/annotations/tree/master"
             },
@@ -215,6 +216,7 @@
                 "collections",
                 "iterator"
             ],
+
             "support": {
                 "source": "https://github.com/doctrine/collections/tree/v1.3.0"
             },
