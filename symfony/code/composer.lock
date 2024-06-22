@@ -72,7 +72,6 @@
                 "docblock",
                 "parser"
             ],
-
             "support": {
                 "source": "https://github.com/doctrine/annotations/tree/master"
             },
@@ -507,7 +506,7 @@
             "support": {
                 "source": "https://github.com/doctrine/inflector/tree/master"
             },
-            "time": "2015-11-06T14:35:42+00:00"
+            "time": "2015-11-06T14:35:42+00:00
         },
         {
             "name": "doctrine/lexer",
