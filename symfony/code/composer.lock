@@ -360,6 +360,7 @@
                 "persistence",
                 "queryobject"
             ],
+
             "support": {
                 "issues": "https://github.com/doctrine/dbal/issues",
                 "source": "https://github.com/doctrine/dbal/tree/v2.4.5"
